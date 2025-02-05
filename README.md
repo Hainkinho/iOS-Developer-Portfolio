@@ -18,6 +18,9 @@ App zur einfachen Verwaltung, Auswertung und Visualisierung von Blutzuckerdaten 
 * MVVM, Redux like AppState
 
 
+Link: https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901
+
+
 <p align="center">
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/01.jpg?raw=true" width="200"/>
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/02.jpg?raw=true" width="200"/>
@@ -31,6 +34,7 @@ App zur einfachen Verwaltung, Auswertung und Visualisierung von Blutzuckerdaten 
 
 # [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/Logo.png?raw=true" width="40"/> Habit Tracker](https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655)
 
+Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
 
 <p align="center">
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/1.png?raw=true" width="200"/>
@@ -43,9 +47,11 @@ App zur einfachen Verwaltung, Auswertung und Visualisierung von Blutzuckerdaten 
 
 
 
-# [Instagram (thisishaipp)](https://www.instagram.com/thisishaipp/)
+# [Instagram - @thisishaipp](https://www.instagram.com/thisishaipp/)
 
 I started learning SwiftUI as soon as it was released and documented my journey and learnings on Instagram, along with some exciting UI experiments. The image below is a snapshot, but each one is also a video where I showcase every project in more detail.
+
+Link: https://www.instagram.com/thisishaipp/
 
 <p align="center">
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/Instagram-Feed-Part-1.jpg?raw=true" width="400"/>
