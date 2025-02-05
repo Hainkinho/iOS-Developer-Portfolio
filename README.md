@@ -45,13 +45,13 @@ Link: https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901
 # [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/Logo.png?raw=true" width="40"/> Habit Tracker](https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655)
 
 
-Im Rahmen dieses Projekts habe ich eine App entwickelt, die Nutzer dabei unterstützt, tägliche Gewohnheiten effizient zu verfolgen. **Der Hauptfokus lag auf der Implementierung modernster iOS-18-Funktionen**, darunter interaktive Widgets, Automatisierungen mit Siri Shortcuts sowie die Integration von Apple Intelligence (AI), wodurch die App zukunftssicher und nahtlos in das Apple-Ökosystem eingebunden ist.
+Im Rahmen dieses Projekts habe ich eine App entwickelt, die Nutzer dabei unterstützt, tägliche Gewohnheiten effizient zu verfolgen. **Der Hauptfokus lag auf der Implementierung neuester iOS-18-Funktionen**, darunter interaktive Widgets, Automatisierungen mit Siri Shortcuts sowie die Integration von Apple Intelligence (AI), wodurch die App zukunftssicher und nahtlos in das Apple-Ökosystem eingebunden ist.
 
 Ein zentrales Feature der App ist die Nutzung von AppIntents, die eine nahtlose Interaktion ermöglichen – auch ohne die App aktiv zu öffnen:
 
-* Standort-basiert: Beim Betreten eines Fitnessstudios wird eine Gewohnheit automatisch als erledigt markiert.
-* Sprachsteuerung: Nutzer können per Siri-Sprachbefehl eine Gewohnheit abhaken, etwa während der Autofahrt.
-* Interaktive Widgets: Auf dem Homescreen platzierte Widgets erlauben eine direkte Interaktion, um Fortschritte mit nur einem Tipp zu erfassen.
+* **Standort-basiert:** Beim Betreten eines Fitnessstudios wird eine Gewohnheit automatisch als erledigt markiert.
+* **Sprachsteuerung:** Nutzer können per Siri-Sprachbefehl eine Gewohnheit abhaken, etwa während der Autofahrt.
+* **Interaktive Widgets:** Auf dem Homescreen platzierte Widgets erlauben eine direkte Interaktion, um Fortschritte mit nur einem Tipp zu erfassen.
 
 Dank der tiefen Integration von AppIntents ist die App optimal auf Apple Intelligence vorbereitet und kann relevante Daten für intelligente Abfragen bereitstellen.
 
