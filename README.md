@@ -46,6 +46,9 @@ Link: https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901
 
 # [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/Logo.png?raw=true" width="40"/> Habit Tracker](https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655)
 
+
+Entwicklung einer App zur Förderung täglicher Gewohnheiten. Mein **Hauptfokus** für dieses Projekts war die **Implementierung neuester iOS-18-Funktionen**, darunter interaktive Widgets, Automationen mit Siri Shortcuts sowie die Integration von Apple Intelligence (AI).
+
 ### iOS Tech Used:
 * SwiftUI
 * CoreData
