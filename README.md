@@ -101,11 +101,11 @@ Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
 </br>
 </br>
 
-# [Instagram - @thisishaipp](https://www.instagram.com/thisishaipp/)
+# UI-Experimente
 
-I started learning SwiftUI as soon as it was released and documented my journey and learnings on Instagram, along with some exciting UI experiments. The image below is a snapshot, but each one is also a video where I showcase every project in more detail.
+Seit der Veröffentlichung von SwiftUI habe ich all meine Lernfortschritte und Experimente auf Instagram dokumentiert. Dabei sind einige spannende und kreative UI-Visualisierungen entstanden, die dort geteilt wurden. Die untenstehende Auswahl gibt einen ersten Eindruck, wobei jedes Projekt in den jeweiligen Videos detaillierter vorgestellt wird.
 
-Link: https://www.instagram.com/thisishaipp/
+Link zu allen Videos: https://www.instagram.com/thisishaipp/
 
 
 
@@ -128,10 +128,9 @@ https://github.com/user-attachments/assets/603454ca-0913-47db-b8cc-6f8b83980eb2
 </br>
 
 
-und noch mehr UI-Videos gibt es auf meiner Instagram seite!
-Link: https://www.instagram.com/thisishaipp/
+Weitere UI-Videos sind auf meiner [Instagram-Seite](https://www.instagram.com/thisishaipp/) verfügbar!
 
-
+#### Kurzer Einblick von meiner Instagram Seite:
 <p align="center">
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/Instagram-Feed-Part-1.jpg?raw=true" width="400"/>
 </p>
