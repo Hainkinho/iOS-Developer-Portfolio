@@ -8,24 +8,22 @@
 
 # [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/logo-sugaristic.png?raw=true" width="40"/> Sugaristic](https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901)
 
-- **Diabetes Blutzuckertagebuch iOS-App**
+Sugaristic ist eine Blutzuckertagebuch-App für Diabetiker, bei der der Fokus auf der **einfachen und schnellen Erfassung von Blutzuckerwerten liegt**. Nutzer können ihre Werte mit nur wenigen Klicks eintragen und diese anschließend visualisieren. Zusätzlich bietet die App die Möglichkeit, die Daten als **PDF zu exportieren**, um sie mit Ärzten zu teilen oder langfristig zu archivieren.
 
-Ich habe eine umfassende App zur Verwaltung und Visualisierung von Blutzuckerwerten entwickelt, die Diabetikern hilft, ihre Werte einfach zu verfolgen und zu analysieren. Die App dient als digitales Blutzuckertagebuch, mit dem Nutzer ihre Werte schnell und unkompliziert erfassen können. Neben der Visualisierung von Blutzuckerdaten bietet die App auch die Möglichkeit, diese in einem PDF-Dokument zu exportieren, das für den Austausch mit Ärzten oder zur langfristigen Archivierung genutzt werden kann.
+Ich habe mich bei diesem Projekt besonders auf die **Optimierung** der App durch regelmäßige Updates konzentriert. Durch A/B-Experimente mit RevenueCat konnte ich die Monetarisierung gezielt verbessern. Mit Mixpanel habe ich das Nutzerverhalten weiter analysiert, um gezielte Anpassungen vorzunehmen, die sowohl die Conversion-Rate erhöhten als auch die Nutzerbindung stärkten
 
-Ich habe mich bei diesem Projekt besonders auf die Optimierung der App durch regelmäßige Updates konzentriert. Durch A/B-Experimente mit RevenueCat konnte ich die Monetarisierung gezielt verbessern. Mit Mixpanel habe ich das Nutzerverhalten weiter analysiert, um gezielte Anpassungen vorzunehmen, die sowohl die Conversion-Rate erhöhten als auch die Nutzerbindung stärkten
-
-### iOS Tech Used:
+### Eingesetzte iOS-Frameworks:
 * SwiftUI
 * CoreData
 * Combine
 * Async/Await
 * UserNotifications
 
-### External Services:
+### Externe Services:
 * Mixpanel
 * RevenueCat
 
-### App Architecture
+### App Architektur:
 * **MVVM** für die Views
 * eigene **Redux-Implementierung** zur Verwaltung des AppState
 
@@ -58,7 +56,7 @@ Ein zentrales Feature der App ist die Nutzung von AppIntents, die eine nahtlose 
 
 Dank der tiefen Integration von AppIntents ist die App optimal auf Apple Intelligence vorbereitet und kann relevante Daten für intelligente Abfragen bereitstellen.
 
-### iOS Tech Used:
+### Eingesetzte iOS-Frameworks:
 * SwiftUI
 * CoreData
 * Combine
@@ -66,11 +64,11 @@ Dank der tiefen Integration von AppIntents ist die App optimal auf Apple Intelli
 * UserNotifications
 * **AppIntents**
 
-### External Services:
+### Externe Services:
 * Mixpanel
 * RevenueCat
 
-### App Architecture
+### App Architektur:
 * **MVVM** für die Views
 * eigene **Redux-Implementierung** zur Verwaltung des AppState
 
