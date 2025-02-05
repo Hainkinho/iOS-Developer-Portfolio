@@ -103,6 +103,11 @@ I started learning SwiftUI as soon as it was released and documented my journey 
 
 Link: https://www.instagram.com/thisishaipp/
 
+<video width="200" height="250" controls>
+  <source src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/videos/Movies-Parallax-Effect.mp4?raw=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 <p align="center">
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/Instagram-Feed-Part-1.jpg?raw=true" width="400"/>
 </p>
