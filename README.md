@@ -38,6 +38,13 @@ Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
 
 <p align="center">
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/1.png?raw=true" width="200"/>
+
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/8.png?raw=true" width="200"/>
+
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/9.png?raw=true" width="200"/>
+
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/7.png?raw=true" width="200"/>
+
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/5.png?raw=true" width="200"/>
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/3.png?raw=true" width="200"/>
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/4.png?raw=true" width="200"/>
