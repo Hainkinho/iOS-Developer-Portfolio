@@ -49,6 +49,11 @@ Link: https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901
 
 Entwicklung einer App zur Förderung täglicher Gewohnheiten. Mein **Hauptfokus** für dieses Projekts war die **Implementierung neuester iOS-18-Funktionen**, darunter interaktive Widgets, Automationen mit Siri Shortcuts sowie die Integration von Apple Intelligence (AI).
 
+Durch die Implementierung von AppIntents können Nutzer auch mit der App Interagieren, auch ohne diese zu öffnen - zum Beispiel:
+* wenn ein Nutzer im Fitnesscenter ankommt wird die Gewohnheit automatisch in der App abgehackt (ohne Nutzeraktion)
+* ein Nutzer sitzt im Auto und kann mithilfe von Siri eine Gewohnheit per Sprache abhacken.
+* ein Nutzer sieht eines der Gewohnheits-Widgets am Homescreen und hackt dort eine Gewohnheit ab
+
 ### iOS Tech Used:
 * SwiftUI
 * CoreData
