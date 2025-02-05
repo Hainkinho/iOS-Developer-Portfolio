@@ -8,7 +8,7 @@
 
 
 
-# [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/logo-sugaristic.jpg?raw=true" width="40"/> Sugaristic](https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901)
+# [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/logo-sugaristic.png?raw=true" width="40"/> Sugaristic](https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901)
 
 - **Diabetes Blutzuckertagebuch iOS-App**
 
