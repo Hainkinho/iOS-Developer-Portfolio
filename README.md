@@ -12,6 +12,8 @@ Sugaristic ist eine Blutzuckertagebuch-App für Diabetiker, bei der der Fokus au
 
 Ich habe mich bei diesem Projekt besonders auf die **Optimierung** der App durch regelmäßige Updates konzentriert. Durch A/B-Experimente mit RevenueCat konnte ich die Monetarisierung gezielt verbessern. Mit Mixpanel habe ich das Nutzerverhalten weiter analysiert, um gezielte Anpassungen vorzunehmen, die sowohl die Conversion-Rate erhöhten als auch die Nutzerbindung stärkten
 
+Link: https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901
+
 ### Eingesetzte iOS-Frameworks:
 * SwiftUI
 * CoreData
@@ -26,9 +28,6 @@ Ich habe mich bei diesem Projekt besonders auf die **Optimierung** der App durch
 ### App Architektur:
 * **MVVM** für die Views
 * eigene **Redux-Implementierung** zur Verwaltung des AppState
-
-
-Link: https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901
 
 
 <p align="center">
@@ -56,6 +55,8 @@ Ein zentrales Feature der App ist die Nutzung von AppIntents, die eine nahtlose 
 
 Dank der tiefen Integration von AppIntents ist die App optimal auf Apple Intelligence vorbereitet und kann relevante Daten für intelligente Abfragen bereitstellen.
 
+Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
+
 ### Eingesetzte iOS-Frameworks:
 * SwiftUI
 * CoreData
@@ -71,8 +72,6 @@ Dank der tiefen Integration von AppIntents ist die App optimal auf Apple Intelli
 ### App Architektur:
 * **MVVM** für die Views
 * eigene **Redux-Implementierung** zur Verwaltung des AppState
-
-Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
 
 <p align="center">
 <!-- <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/1.png?raw=true" width="180"/> -->
