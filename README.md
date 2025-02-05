@@ -130,7 +130,7 @@ https://github.com/user-attachments/assets/603454ca-0913-47db-b8cc-6f8b83980eb2
 
 Weitere UI-Videos sind auf meiner [Instagram-Seite](https://www.instagram.com/thisishaipp/) verfügbar!
 
-#### Kurzer Einblick von meiner Instagram Seite:
+#### Ein kurzer Einblick in meine Instagram-Seite:
 <p align="center">
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/Instagram-Feed-Part-1.jpg?raw=true" width="400"/>
 </p>
