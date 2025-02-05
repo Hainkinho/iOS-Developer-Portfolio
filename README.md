@@ -10,7 +10,9 @@
 
 - **Diabetes Blutzuckertagebuch iOS-App**
 
-App zur einfachen Verwaltung, Auswertung und Visualisierung von Blutzuckerdaten für Diabetiker. Verantwortlich für die gesamte Entwicklung und Optimierung (AB-Tests)
+Ich habe eine umfassende App zur Verwaltung und Visualisierung von Blutzuckerwerten entwickelt, die Diabetikern hilft, ihre Werte einfach zu verfolgen und zu analysieren. Die App dient als digitales Blutzuckertagebuch, mit dem Nutzer ihre Werte schnell und unkompliziert erfassen können. Neben der Visualisierung von Blutzuckerdaten bietet die App auch die Möglichkeit, diese in einem PDF-Dokument zu exportieren, das für den Austausch mit Ärzten oder zur langfristigen Archivierung genutzt werden kann.
+
+Ich habe mich bei diesem Projekt besonders auf die Optimierung der App durch regelmäßige Updates konzentriert. Durch A/B-Experimente mit RevenueCat konnte ich die Monetarisierung gezielt verbessern. Mit Mixpanel habe ich das Nutzerverhalten weiter analysiert, um gezielte Anpassungen vorzunehmen, die sowohl die Conversion-Rate erhöhten als auch die Nutzerbindung stärkten
 
 ### iOS Tech Used:
 * SwiftUI
@@ -46,12 +48,15 @@ Link: https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901
 # [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/Logo.png?raw=true" width="40"/> Habit Tracker](https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655)
 
 
-Entwicklung einer App zur Förderung täglicher Gewohnheiten. Mein **Hauptfokus** für dieses Projekts war die **Implementierung neuester iOS-18-Funktionen**, darunter interaktive Widgets, Automationen mit Siri Shortcuts sowie die Integration von Apple Intelligence (AI).
+Im Rahmen dieses Projekts habe ich eine App entwickelt, die Nutzer dabei unterstützt, tägliche Gewohnheiten effizient zu verfolgen. **Der Hauptfokus lag auf der Implementierung modernster iOS-18-Funktionen**, darunter interaktive Widgets, Automatisierungen mit Siri Shortcuts sowie die Integration von Apple Intelligence (AI), wodurch die App zukunftssicher und nahtlos in das Apple-Ökosystem eingebunden ist.
 
-Durch die Implementierung von AppIntents können Nutzer auch mit der App Interagieren, auch ohne diese zu öffnen - zum Beispiel:
-* wenn ein Nutzer im Fitnesscenter ankommt wird die Gewohnheit automatisch in der App abgehackt (ohne Nutzeraktion)
-* ein Nutzer sitzt im Auto und kann mithilfe von Siri eine Gewohnheit per Sprache abhacken.
-* ein Nutzer sieht eines der Gewohnheits-Widgets am Homescreen und hackt dort eine Gewohnheit ab
+Ein zentrales Feature der App ist die Nutzung von AppIntents, die eine nahtlose Interaktion ermöglichen – auch ohne die App aktiv zu öffnen:
+
+* Standort-basiert: Beim Betreten eines Fitnessstudios wird eine Gewohnheit automatisch als erledigt markiert.
+* Sprachsteuerung: Nutzer können per Siri-Sprachbefehl eine Gewohnheit abhaken, etwa während der Autofahrt.
+* Interaktive Widgets: Auf dem Homescreen platzierte Widgets erlauben eine direkte Interaktion, um Fortschritte mit nur einem Tipp zu erfassen.
+
+Dank der tiefen Integration von AppIntents ist die App optimal auf Apple Intelligence vorbereitet und kann relevante Daten für intelligente Abfragen bereitstellen.
 
 ### iOS Tech Used:
 * SwiftUI
