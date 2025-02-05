@@ -1,3 +1,11 @@
+
+
+**👋 Hi! I'm an iOS Developer. Here's a bit of what I've been working on.**
+
+
+
+
+
 # [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/logo-sugaristic.jpg?raw=true" width="40"/> Sugaristic](https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901)
 
 - **Diabetes Blutzuckertagebuch iOS-App**
@@ -9,47 +17,68 @@ App zur einfachen Verwaltung, Auswertung und Visualisierung von Blutzuckerdaten 
 * CoreData
 * Combine
 * Async/Await
+* UserNotifications
 
 ### External Services:
 * Mixpanel
 * RevenueCat
 
 ### App Architecture
-* MVVM, Redux like AppState
+* **MVVM** für die Views
+* eigene **Redux-Implementierung** zur Verwaltung des AppState
 
 
 Link: https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901
 
 
 <p align="center">
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/01.jpg?raw=true" width="200"/>
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/02.jpg?raw=true" width="200"/>
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/03.jpg?raw=true" width="200"/>
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/04.jpg?raw=true" width="200"/>
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/05.jpg?raw=true" width="200"/>
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/06.jpg?raw=true" width="200"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/01.jpg?raw=true" width="180"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/02.jpg?raw=true" width="180"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/03.jpg?raw=true" width="180"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/04.jpg?raw=true" width="180"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/05.jpg?raw=true" width="180"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/06.jpg?raw=true" width="180"/>
 </p>
 
 
 
 # [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/Logo.png?raw=true" width="40"/> Habit Tracker](https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655)
 
+### iOS Tech Used:
+* SwiftUI
+* CoreData
+* Combine
+* Async/Await
+* UserNotifications
+* **AppIntents**
+
+### External Services:
+* Mixpanel
+* RevenueCat
+
+### App Architecture
+* **MVVM** für die Views
+* eigene **Redux-Implementierung** zur Verwaltung des AppState
+
 Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
 
 <p align="center">
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/1.png?raw=true" width="200"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/1.png?raw=true" width="180"/>
 
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/8.png?raw=true" width="200"/>
 
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/9.png?raw=true" width="200"/>
+<!-- <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/5.png?raw=true" width="180"/> -->
 
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/7.png?raw=true" width="200"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/3.png?raw=true" width="180"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/4.png?raw=true" width="180"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/2.png?raw=true" width="180"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/6.png?raw=true" width="180"/>
 
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/5.png?raw=true" width="200"/>
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/3.png?raw=true" width="200"/>
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/4.png?raw=true" width="200"/>
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/2.png?raw=true" width="200"/>
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/6.png?raw=true" width="200"/>
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/7.jpg?raw=true" width="180"/>
+
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/8.jpg?raw=true" width="180"/>
+
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/9.jpg?raw=true" width="180"/>
+
 </p>
 
 
