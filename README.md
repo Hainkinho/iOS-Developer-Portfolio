@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/Banner.jpg?raw=true"/>
+</p>
 
 **👋 Hi! I'm an iOS Developer. Here's a bit of what I've been working on.**
 
