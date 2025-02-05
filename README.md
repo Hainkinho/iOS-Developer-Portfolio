@@ -8,7 +8,7 @@
 
 # [<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/logo-sugaristic.png?raw=true" width="40"/> Sugaristic](https://apps.apple.com/de/app/blutzucker-tagebuch-deutsch/id1661287901)
 
-Sugaristic ist eine Blutzuckertagebuch-App für Diabetiker, bei der der Fokus auf der **einfachen und schnellen Erfassung von Blutzuckerwerten liegt**. Nutzer können ihre Werte mit nur wenigen Klicks eintragen und diese anschließend visualisieren. Zusätzlich bietet die App die Möglichkeit, die Daten als **PDF zu exportieren**, um sie mit Ärzten zu teilen oder langfristig zu archivieren.
+Sugaristic ist eine Blutzuckertagebuch-App für Diabetiker, bei der der Fokus auf der **einfachen und schnellen Erfassung von Blutzuckerwerten liegt**. Nutzer können ihre Werte mit nur wenigen Klicks eintragen, welche in diversen Diagrammen verständlich visualisiert werden. Zusätzlich bietet die App die Möglichkeit, die Daten als **PDF zu exportieren**, um sie mit Ärzten zu teilen oder langfristig zu archivieren.
 
 Ich habe mich bei diesem Projekt besonders auf die **Optimierung** der App durch regelmäßige Updates konzentriert. Durch A/B-Experimente mit RevenueCat konnte ich die Monetarisierung gezielt verbessern. Mit Mixpanel habe ich das Nutzerverhalten weiter analysiert, um gezielte Anpassungen vorzunehmen, die sowohl die Conversion-Rate erhöhten als auch die Nutzerbindung stärkten
 
