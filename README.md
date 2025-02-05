@@ -46,3 +46,7 @@ App zur einfachen Verwaltung, Auswertung und Visualisierung von Blutzuckerdaten 
 # Instagram (thisishaipp)
 
 I documented all my learnings with SwiftUI on Instagram to see my progress.
+
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/Instagram-Feed-Part-1.png?raw=true" width="200"/>
+
+<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/Instagram-Feed-Part-2.png?raw=true" width="200"/>
