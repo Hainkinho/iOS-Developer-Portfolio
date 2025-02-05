@@ -96,22 +96,39 @@ Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
 </p>
 
 
-
 # [Instagram - @thisishaipp](https://www.instagram.com/thisishaipp/)
 
 I started learning SwiftUI as soon as it was released and documented my journey and learnings on Instagram, along with some exciting UI experiments. The image below is a snapshot, but each one is also a video where I showcase every project in more detail.
 
 Link: https://www.instagram.com/thisishaipp/
 
-<video width="200" height="250" controls>
-  <source src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/videos/Movies-Parallax-Effect.mp4?raw=true" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/90ee01a3-109d-4332-8763-51d82139ab31
+
+
+
+https://github.com/user-attachments/assets/181a9a24-b52e-4606-bfa3-d47399a33c51
+
+
+
+https://github.com/user-attachments/assets/433f0066-21d2-46fd-b55f-853d16c270a8
+
+
+
+
+https://github.com/user-attachments/assets/2e4e0824-f614-43e9-b32d-1f3ee1bbbbf5
+
+
+
+
+https://github.com/user-attachments/assets/8e2bad77-2938-4c0c-a7e9-5cf4c62af240
+
+
+https://github.com/user-attachments/assets/603454ca-0913-47db-b8cc-6f8b83980eb2
+
+
+
 
 <p align="center">
 <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/Instagram-Feed-Part-1.jpg?raw=true" width="400"/>
 </p>
-
-<!-- </br>
-
-<img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/Instagram-Feed-Part-2.jpg?raw=true" width="400"/> -->
