@@ -64,6 +64,7 @@ Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
 * Async/Await
 * UserNotifications
 * **AppIntents**
+* **WidgetKit**
 
 ### Externe Services:
 * Mixpanel
