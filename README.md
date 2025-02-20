@@ -104,9 +104,16 @@ Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
 
 # Speiseplan+ (React-Native)
 
-**Speiseplan+** wurde als Universitätsprojekt entwickelt, wobei nur der Name vorgegeben war. Die Konzeption, Entwicklung und Umsetzung erfolgte komplett frei. Die App erstellt personalisierte Mahlzeitenpläne basierend auf Ernährungsvorlieben, Allergien, Zielen und Budget. Nutzer können passende Gerichte auswählen, deren Kalorien, Makronährstoffe, ökologischen Fußabdruck und Kosten einsehen sowie eine automatische Einkaufsliste generieren. Das tägliche Budget wird dabei stets mitgetrackt.
+**Speiseplan+** ist eine in **React Native** entwickelte App zur Erstellung personalisierter Mahlzeitenpläne für iOS und Android. Sie basiert auf Ernährungsvorlieben, Allergien, persönlichen Zielen und Budget. Nutzer können Gerichte auswählen, deren Kalorien, Makronährstoffe, ökologischen Fußabdruck und Kosten einsehen sowie eine automatische Einkaufsliste generieren. Zudem wird das tägliche Budget kontinuierlich getrackt.
 
-Die App wurde mit **React Native** für **iOS und Android** entwickelt.
+Das Projekt wurde im Rahmen eines **Human-Computer-Interaction (HCI)-Unikurses** entwickelt. Die Entwicklung folgte einem nutzerzentrierten Ansatz:
+
+1. **Konzeptphase:** Erste Ideen und Anforderungen wurden definiert.
+2. **Prototyping:** Ein grober Entwurf wurde mit Figma erstellt.
+3. **Evaluation:** Der Prototyp wurde durch Nutzerinterviews getestet und optimiert.
+4. **Umsetzung** Nach den Anpassungen wurde die finale App mit React Native für iOS und Android entwickelt.
+
+Für die Umsetzung des React Native-Projekts wurde **Expo** verwendet, um eine schnelle und reibungslose Entwicklung für iOS und Android zu ermöglichen.
 
 <p align="center">
 <!-- <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/1.png?raw=true" width="180"/> -->
