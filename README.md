@@ -101,7 +101,24 @@ Link: https://apps.apple.com/de/app/habit-tracker-mit-streaks/id6621269655
 </br>
 </br>
 
-# UI-Experimente
+
+# Speiseplan+ (React-Native)
+
+**Speiseplan+** wurde als Universitätsprojekt entwickelt, wobei nur der Name vorgegeben war. Die Konzeption, Entwicklung und Umsetzung erfolgte komplett frei. Die App erstellt personalisierte Mahlzeitenpläne basierend auf Ernährungsvorlieben, Allergien, Zielen und Budget. Nutzer können passende Gerichte auswählen, deren Kalorien, Makronährstoffe, ökologischen Fußabdruck und Kosten einsehen sowie eine automatische Einkaufsliste generieren. Das tägliche Budget wird dabei stets mitgetrackt.
+
+Die App wurde mit **React Native** für **iOS und Android** entwickelt.
+
+<p align="center">
+<!-- <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/1.png?raw=true" width="180"/> -->
+
+<img src="./images/speisseplan_plus/Design-Board.jpg" width="800"/>
+
+</p>
+
+<br>
+<br>
+
+# SwiftUI-Experimente
 
 Seit der Veröffentlichung von SwiftUI habe ich all meine Lernfortschritte und Experimente auf Instagram dokumentiert. Dabei sind einige spannende und kreative UI-Visualisierungen entstanden, die dort geteilt wurden. Die untenstehende Auswahl gibt einen ersten Eindruck, wobei jedes Projekt in den jeweiligen Videos detaillierter vorgestellt wird.
 
