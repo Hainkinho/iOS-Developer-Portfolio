@@ -111,7 +111,7 @@ Die App wurde mit **React Native** für **iOS und Android** entwickelt.
 <p align="center">
 <!-- <img src="https://github.com/Hainkinho/iOS-Developer-Portfolio/blob/main/images/habit-tracker/1.png?raw=true" width="180"/> -->
 
-<img src="./images/speisseplan_plus/Design-Board.jpg" width="800"/>
+<img src="./images/speiseplan_plus/Design-Board.jpg" width="800"/>
 
 </p>
 
